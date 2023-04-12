@@ -19,6 +19,9 @@ A collection of software for protein structure prediction and design.
 - [ColabFold](https://github.com/sokrypton/ColabFold) - [Colab notebooks](https://github.com/sokrypton/ColabFold#making-protein-folding-accessible-to-all-via-google-colab) - [paper](https://doi.org/10.5281/zenodo.5123296) 
   - a collection of community-developed Colab notebooks with extra features for Alphafold2, ESMFold, RosettaFold, OmegaFold in various modes.
 
+- [ParaFold](https://github.com/Zuricho/ParallelFold) - [paper](https://arxiv.org/abs/2111.06340) 
+  - a lightly modified fork of Alphafold2 which splits the pipeline into seperate MSA generation and GPU inference steps for better use of computing resources.
+
 - [Evolutionary Scale Modeling (ESM-2, ESMFold)](https://github.com/facebookresearch/esm) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/ESMFold.ipynb) - [paper](https://www.science.org/doi/abs/10.1126/science.ade2574)
 
 - [OpenFold](https://github.com/aqlaboratory/openfold) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/aqlaboratory/openfold/blob/main/notebooks/OpenFold.ipynb) - [paper](https://www.biorxiv.org/content/10.1101/2022.11.20.517210) 
