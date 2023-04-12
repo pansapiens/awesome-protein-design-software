@@ -9,6 +9,7 @@ A collection of software for protein structure prediction and design.
 - [Design](#design)
 - [Peptide binding](#peptide-binding)
 - [Other lists](#other-lists)
+- [Uncurated searches](#uncurated-searches)
 - [Contribution guidelines](#contribution-guidelines)
 
 ## Structure prediction
@@ -79,7 +80,7 @@ A collection of software for protein structure prediction and design.
 ## Uncurated searches
 
 - [Github repos tagged protein-design](https://github.com/topics/protein-design)
-  - result here may find their way into the curated list above .... 
+  - results here may find their way into the curated list above .... 
 
 ## Contribution guidelines
 
