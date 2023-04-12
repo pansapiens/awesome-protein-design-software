@@ -60,6 +60,9 @@ A collection of software for protein structure prediction and design.
 
 - [ColabDesign/AfDesign peptide binder design](https://github.com/sokrypton/ColabDesign/tree/main/af) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/peptide_binder_design.ipynb)
 
+- [Solubility aware protein-binding peptide design with AfDesign](https://github.com/ohuelab/Solubility_AfDesign) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ohuelab/Solubility_AfDesign/blob/solubility/design.ipynb) - [paper](https://www.mdpi.com/2227-9059/10/7/1626)
+  - Based on ColabDesign/AfDesign, with an extra solubility objective function
+
 ## Other lists
 
 - [List of papers about Proteins Design using Deep Learning (Peldom)](https://github.com/Peldom/papers_for_protein_design_using_DL)
