@@ -7,6 +7,8 @@ A collection of software for protein structure prediction and design.
 - [Structure prediction](#structure-prediction)
 - [Multimer structure prediction](#multimer-structure-prediction)
 - [Design](#design)
+- [Peptide binding](#peptide-binding)
+- [Other lists](#other-lists)
 
 ## Structure prediction
 
@@ -46,3 +48,12 @@ A collection of software for protein structure prediction and design.
 
 - [ESM-IF1 (inverse folding)](https://github.com/facebookresearch/esm#inverse-folding-) - [paper](https://doi.org/10.1101/2022.04.10.487779)
 
+## Peptide binding
+
+- [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
+
+## Other lists
+
+- [Awesome AI-based Protein Design (opendilab)](https://github.com/opendilab/awesome-AI-based-protein-design)
+  - a list focusing on important peer-reviewed publications and manuscripts
+- [awesome-protein-design (johnnytam100)](https://github.com/johnnytam100/awesome-protein-design)
