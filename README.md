@@ -9,6 +9,7 @@ A collection of software for protein structure prediction and design.
 - [Design](#design)
 - [Peptide binding](#peptide-binding)
 - [Other lists](#other-lists)
+- [Contribution guidelines](#contribution-guidelines)
 
 ## Structure prediction
 
@@ -71,3 +72,12 @@ A collection of software for protein structure prediction and design.
 - [Awesome AI-based Protein Design (opendilab)](https://github.com/opendilab/awesome-AI-based-protein-design)
   - a list focusing on important peer-reviewed publications and manuscripts
 - [awesome-protein-design (johnnytam100)](https://github.com/johnnytam100/awesome-protein-design)
+        
+## Contribution guidelines
+
+- Should have a (theoretically) runnable implementation
+  - The focus of this list is runnable software rather than pre-print/publication descriptions of implementations, but link to the pre-print/paper if you can. There are several other great lists that focus on publications.
+- Prefer open source and open access 
+  - When linking to publications, please preference open access versions. If the peer-reviewed publication is not open access, please link to the aRxiv/bioRxiv version when available (aRxiv/bioRxiv generally provide outgoing links to the peer-reviewed version).
+- Not a historical retrospective
+  - The intention is to include the best performing new implementations as they appear rather than be historically comprehensive (Andrej Sali's MODELLER was awesome, but probably obsolete at this point).
