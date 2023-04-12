@@ -66,7 +66,7 @@ A collection of software for protein structure prediction and design.
   - a *huge* well categorized list of methods, links to papers and code
   - organized by machine learning method (LSTM, CNN, GAN, VAE, Transformer etc) and mapping (Sequence -> Scaffold, Function -> Structure etc).
   - **Sections**: Benchmarks and datasets, Reviews, Model-based design, Function to Scaffold, Scaffold to Sequence, Function to Sequence, Function to Structure, Other tasks.
-- [Papers on machine learning for proteins (yangkky](https://github.com/yangkky/Machine-learning-for-proteins)
+- [Papers on machine learning for proteins (yangkky)](https://github.com/yangkky/Machine-learning-for-proteins)
   - a big well categorized list of papers.
   - **Sections**: Reviews, Tools and datasets, Machine-learning guided directed evolution, Representation learning, Unsupervised variant prediction, Generative models, Biophysics predicting stability, Predicting structure from sequence, Predicting sequence from structure, Classification, annotation, search, and alignments, Predicting interactions with other molecules, Other supervised learning.
 - [Awesome AI-based Protein Design (opendilab)](https://github.com/opendilab/awesome-AI-based-protein-design)
