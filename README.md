@@ -46,14 +46,28 @@ A collection of software for protein structure prediction and design.
 
 ## Design
 
+- [ColabDesign](https://github.com/sokrypton/ColabDesign)
+  - Includes notebooks for AfDesign, TrDesign, ProteinMPNN
+
+- [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.0/mpnn/examples/proteinmpnn_in_jax.ipynb) - [paper](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)
+  
 - [ESM-IF1 (inverse folding)](https://github.com/facebookresearch/esm#inverse-folding-) - [paper](https://doi.org/10.1101/2022.04.10.487779)
 
 ## Peptide binding
 
 - [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
 
+- [ColabDesign/AfDesign peptide binder design](https://github.com/sokrypton/ColabDesign/tree/main/af) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/af/examples/peptide_binder_design.ipynb)
+
 ## Other lists
 
+- [List of papers about Proteins Design using Deep Learning (Peldom)](https://github.com/Peldom/papers_for_protein_design_using_DL)
+  - a *huge* well categorized list of methods, links to papers and code
+  - organized by machine learning method (LSTM, CNN, GAN, VAE, Transformer etc) and mapping (Sequence -> Scaffold, Function -> Structure etc).
+  - **Sections**: Benchmarks and datasets, Reviews, Model-based design, Function to Scaffold, Scaffold to Sequence, Function to Sequence, Function to Structure, Other tasks.
+- [Papers on machine learning for proteins (yangkky](https://github.com/yangkky/Machine-learning-for-proteins)
+  - a big well categorized list of papers.
+  - **Sections**: Reviews, Tools and datasets, Machine-learning guided directed evolution, Representation learning, Unsupervised variant prediction, Generative models, Biophysics predicting stability, Predicting structure from sequence, Predicting sequence from structure, Classification, annotation, search, and alignments, Predicting interactions with other molecules, Other supervised learning.
 - [Awesome AI-based Protein Design (opendilab)](https://github.com/opendilab/awesome-AI-based-protein-design)
   - a list focusing on important peer-reviewed publications and manuscripts
 - [awesome-protein-design (johnnytam100)](https://github.com/johnnytam100/awesome-protein-design)
