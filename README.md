@@ -75,7 +75,12 @@ A collection of software for protein structure prediction and design.
 - [Awesome AI-based Protein Design (opendilab)](https://github.com/opendilab/awesome-AI-based-protein-design)
   - a list focusing on important peer-reviewed publications and manuscripts
 - [awesome-protein-design (johnnytam100)](https://github.com/johnnytam100/awesome-protein-design)
-        
+
+## Uncurated searches
+
+- [Github repos tagged protein-design](https://github.com/topics/protein-design)
+  - result here may find their way into the curated list above .... 
+
 ## Contribution guidelines
 
 - Should have a (theoretically) runnable implementation
