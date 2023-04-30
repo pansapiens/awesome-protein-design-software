@@ -58,6 +58,9 @@ A collection of software for protein structure prediction and design.
   
 - [ESM-IF1 (inverse folding)](https://github.com/facebookresearch/esm#inverse-folding-) - [paper](https://doi.org/10.1101/2022.04.10.487779)
 
+- [ECNet](https://github.com/luoyunan/ECNet) - [paper](https://www.nature.com/articles/s41467-021-25976-8)
+  - Fine-tunable model that predicts protein fitness/function from sequence. Can be used to prioritize variants when optimizing function based on existing data. 
+
 ## Peptide binding
 
 - [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
