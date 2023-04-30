@@ -1,6 +1,6 @@
 # Awesome Protein Structure Prediction and Design Software List
 
-A collection of software for protein structure prediction and design.
+A collection of software for protein structure prediction and design, with a focus on new deep learning and transformer based tools.
 
 ## Table of Contents
 
@@ -48,6 +48,9 @@ A collection of software for protein structure prediction and design.
 
 - [MoLPC](https://github.com/patrickbryant1/MoLPC) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/patrickbryant1/MoLPC/blob/master/MoLPC.ipynb) - [paper](https://www.nature.com/articles/s41467-022-33729-4) 
   - an Alphafold2-based pipeline for assembling large complexes based on pairwise heterodimer prediction and Monte Carlo search.
+
+- [PeSTo](https://github.com/LBM-EPFL/PeSTo) - [paper](https://www.nature.com/articles/s41467-023-37701-8) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/LBM-EPFL/PeSTo/blob/main/apply_model.ipynb) - [web app](https://pesto.epfl.ch/)
+  - Predicts interface residues from structure, for protein-protein, protein-DNA/RNA and protein-ligand interfaces.
 
 ## Design
 
