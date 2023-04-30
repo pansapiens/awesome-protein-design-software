@@ -67,6 +67,11 @@ A collection of software for protein structure prediction and design.
 - [Solubility aware protein-binding peptide design with AfDesign](https://github.com/ohuelab/Solubility_AfDesign) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ohuelab/Solubility_AfDesign/blob/solubility/design.ipynb) - [paper](https://www.mdpi.com/2227-9059/10/7/1626)
   - Based on ColabDesign/AfDesign, with an extra solubility objective function
 
+## Sequence generation
+
+- [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2) - [paper](https://www.nature.com/articles/s41467-022-32007-7)
+  - A generative transformer model based on GPT-2, at generates native-like sequences
+
 ## Other lists
 
 - [List of papers about Proteins Design using Deep Learning (Peldom)](https://github.com/Peldom/papers_for_protein_design_using_DL)
