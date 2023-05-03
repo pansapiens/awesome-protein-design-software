@@ -58,9 +58,14 @@ A collection of software for protein structure prediction and design, with a foc
   - Includes notebooks for AfDesign, TrDesign, ProteinMPNN
 
 - [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.0/mpnn/examples/proteinmpnn_in_jax.ipynb) - [paper](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)
-  
-- [ESM-IF1 (inverse folding)](https://github.com/facebookresearch/esm#inverse-folding-) - [paper](https://doi.org/10.1101/2022.04.10.487779)
 
+- ESM methods
+  - [ESM-IF1 (inverse folding)](https://github.com/facebookresearch/esm#inverse-folding-) - [paper](https://doi.org/10.1101/2022.04.10.487779)
+  - [ESMFold-based constraint based design via "Protein programming language"](https://github.com/facebookresearch/esm/tree/main/examples/protein-programming-language) - [paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1.full) -  [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/protein-programming-language/tutorial.ipynb)
+    - A "high-level programming language for generative protein design". Hopefully this method is given a catchier name for the peer-reviewed publication.
+  - [ESM-2 language model design](https://github.com/facebookresearch/esm/tree/main/examples/lm-design) - [paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1.full) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/lm-design/free_generation.ipynb) | [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/lm-design/fixed_backbone.ipynb)
+    - Fixed-backbone and free generative design, apparently capable of generalizing to produce sequences of folded proteins with no detectable sequence homoology with natural proteins.
+ 
 - [ECNet](https://github.com/luoyunan/ECNet) - [paper](https://www.nature.com/articles/s41467-021-25976-8)
   - Fine-tunable model that predicts protein fitness/function from sequence. Can be used to prioritize variants when optimizing function based on existing data. 
 
