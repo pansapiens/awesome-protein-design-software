@@ -86,6 +86,12 @@ A collection of software for protein structure prediction and design, with a foc
 - [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2) - [paper](https://www.nature.com/articles/s41467-022-32007-7)
   - A generative transformer model based on GPT-2, at generates native-like sequences
 
+## General protein language models
+
+- [ProtTrans](https://github.com/agemagician/ProtTrans) - [paper](https://ieeexplore.ieee.org/document/9477085) - a transformer model of protein sequence (ProtT5)
+  - embeddings that are competative with ESM-1b on subcellular localization prediction
+  - [structure prediction using EMBER2 and trRosetta](https://github.com/kWeissenow/EMBER2) - lower resource but can't match Alphafold2
+
 ## Other lists
 
 - [List of papers about Proteins Design using Deep Learning (Peldom)](https://github.com/Peldom/papers_for_protein_design_using_DL)
