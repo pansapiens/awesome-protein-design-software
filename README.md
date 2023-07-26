@@ -8,6 +8,7 @@ A collection of software for protein structure prediction and design, with a foc
 - [Multimer structure prediction](#multimer-structure-prediction)
 - [Design](#design)
 - [Peptide binding](#peptide-binding)
+- [General protein language models](#general-protein-language-models)
 - [Other lists](#other-lists)
 - [Uncurated searches](#uncurated-searches)
 - [Contribution guidelines](#contribution-guidelines)
