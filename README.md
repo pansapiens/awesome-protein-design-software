@@ -73,6 +73,9 @@ A collection of software for protein structure prediction and design, with a foc
 - [ECNet](https://github.com/luoyunan/ECNet) - [paper](https://www.nature.com/articles/s41467-021-25976-8)
   - Fine-tunable model that predicts protein fitness/function from sequence. Can be used to prioritize variants when optimizing function based on existing data. 
 
+- [ProteinSolver](https://github.com/ostrokach/proteinsolver) - [paper](https://doi.org/10.1016/j.cels.2020.08.016) -  [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ostrokach/proteinsolver/blob/master/notebooks/20_protein_demo.ipynb)
+  - a graph neural network for constraint based protein structure solving, aiding design of proteins that fold into a predetermined geometric shape.  
+
 ## Peptide binding
 
 - [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
