@@ -89,6 +89,8 @@ A collection of software for protein structure prediction and design, with a foc
 
 - [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2) - [paper](https://www.nature.com/articles/s41467-022-32007-7)
   - A generative transformer model based on GPT-2, at generates native-like sequences
+- [EvoDiff](https://github.com/microsoft/evodiff) - [paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1)
+  - Generation of protein sequences and evolutionary alignments via discrete diffusion models. Also explores generation in intrinsically disordered regions (IDRs). 
 
 ## General protein language models
 
