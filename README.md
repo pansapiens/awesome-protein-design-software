@@ -74,7 +74,10 @@ A collection of software for protein structure prediction and design, with a foc
   - Fine-tunable model that predicts protein fitness/function from sequence. Can be used to prioritize variants when optimizing function based on existing data. 
 
 - [ProteinSolver](https://github.com/ostrokach/proteinsolver) - [paper](https://doi.org/10.1016/j.cels.2020.08.016) -  [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ostrokach/proteinsolver/blob/master/notebooks/20_protein_demo.ipynb)
-  - a graph neural network for constraint based protein structure solving, aiding design of proteins that fold into a predetermined geometric shape.  
+  - a graph neural network for constraint based protein structure solving, aiding design of proteins that fold into a predetermined geometric shape.
+ 
+- [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion) - [paper](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb)
+  - a generative diffusion model for protein (backbone) structure generation, with or without conditional information (eg motif or binding target) 
 
 ## Peptide binding
 
