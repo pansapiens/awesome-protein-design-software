@@ -95,6 +95,11 @@ A collection of software for protein structure prediction and design, with a foc
 - [EvoDiff](https://github.com/microsoft/evodiff) - [paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1)
   - Generation of protein sequences and evolutionary alignments via discrete diffusion models. Also explores generation in intrinsically disordered regions (IDRs). 
 
+## Sequence similarity search and (structural) alignment
+
+- [DeepBLAST](https://github.com/flatironinstitute/deepblast) - [paper](https://doi.org/10.1101/2020.11.03.365932)
+  - Pairwise alignments that better reflect structural alignment, using protein language model embeddings and differentiable dynamic programming for Smith-Waterman or Needleman-Wunch alignment.
+
 ## General protein language models
 
 - [ProtTrans](https://github.com/agemagician/ProtTrans) - [paper](https://ieeexplore.ieee.org/document/9477085) - a transformer model of protein sequence (ProtT5)
