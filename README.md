@@ -101,6 +101,7 @@ A collection of software for protein structure prediction and design, with a foc
 
 - [DeepBLAST](https://github.com/flatironinstitute/deepblast) - [paper](https://doi.org/10.1101/2020.11.03.365932)
   - Pairwise alignments that better reflect structural alignment, using protein language model embeddings and differentiable dynamic programming for Smith-Waterman or Needleman-Wunch alignment.
+  - Associated repo: [TM-vec](https://github.com/tymor22/tm-vec) 
 
 ## General protein language models
 
