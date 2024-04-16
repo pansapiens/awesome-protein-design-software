@@ -94,6 +94,8 @@ A collection of software for protein structure prediction and design, with a foc
   - A generative transformer model based on GPT-2, at generates native-like sequences
 - [EvoDiff](https://github.com/microsoft/evodiff) - [paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1)
   - Generation of protein sequences and evolutionary alignments via discrete diffusion models. Also explores generation in intrinsically disordered regions (IDRs). 
+- [PoET](https://github.com/OpenProteinAI/PoET) - [paper](https://doi.org/10.48550/arXiv.2306.06156)
+  - protein language model for variant effect prediction and conditional sequence generation.
 
 ## Sequence similarity search and (structural) alignment
 
