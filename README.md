@@ -36,6 +36,10 @@ A collection of software for protein structure prediction and design, with a foc
 
 - [RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold.ipynb) - [paper](https://www.science.org/doi/10.1126/science.abj8754)
 
+- [ManyFold](https://github.com/instadeepai/manyfold) - [paper](https://doi.org/10.1093/bioinformatics/btac773)
+  - a framework for batch validation and distributed training with Alphafold, Openfold, others.
+  - includes pLMFold, a ESM-1b-based structure prediction model
+
 ## Multimer structure prediction
 
 - [Alphafold2-Multimer](https://github.com/deepmind/alphafold) - [paper](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1)
