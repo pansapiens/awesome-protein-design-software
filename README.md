@@ -124,6 +124,8 @@ A collection of software for protein structure prediction and design, with a foc
   - **Sections**: Reviews, Tools and datasets, Machine-learning guided directed evolution, Representation learning, Unsupervised variant prediction, Generative models, Biophysics predicting stability, Predicting structure from sequence, Predicting sequence from structure, Classification, annotation, search, and alignments, Predicting interactions with other molecules, Other supervised learning.
 - [Awesome AI-based Protein Design (opendilab)](https://github.com/opendilab/awesome-AI-based-protein-design)
   - a list focusing on important peer-reviewed publications and manuscripts
+- [Scientific Large Language Models (Sci-LLMs)](https://github.com/HICAI-ZJU/Scientific-LLM-Survey?tab=readme-ov-file#protein-sequence-generationdesign)
+  - a fantastic list of miletone papers in scientific large language models, with a "Protein Sequence Generation/Design" section
 - [awesome-protein-design (johnnytam100)](https://github.com/johnnytam100/awesome-protein-design)
 - [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
 
