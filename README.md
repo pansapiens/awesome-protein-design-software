@@ -15,6 +15,9 @@ A collection of software for protein structure prediction and design, with a foc
 
 ## Structure prediction
 
+- Alphafold3 (no code yet) - [paper](https://doi.org/10.1038/s41586-024-07487-w) - [blog](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - [webapp](https://alphafoldserver.com/)
+  - an improved Alphafold with support for nucleotide, ligand and post-translational modification modelling
+
 - [Alphafold2](https://github.com/deepmind/alphafold) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) - [paper](https://doi.org/10.1038/s41586-021-03819-2)
 
 - [ColabFold](https://github.com/sokrypton/ColabFold) - [Colab notebooks](https://github.com/sokrypton/ColabFold#making-protein-folding-accessible-to-all-via-google-colab) - [paper](https://doi.org/10.5281/zenodo.5123296) 
