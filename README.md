@@ -57,8 +57,11 @@ A collection of software for protein structure prediction and design, with a foc
 - [PeSTo](https://github.com/LBM-EPFL/PeSTo) - [paper](https://www.nature.com/articles/s41467-023-37701-8) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/LBM-EPFL/PeSTo/blob/main/apply_model.ipynb) - [web app](https://pesto.epfl.ch/)
   - Predicts interface residues from structure, for protein-protein, protein-DNA/RNA and protein-ligand interfaces.
 
-- [TCRdock](https://github.com/phbradley/TCRdock) - - [paper](https://elifesciences.org/articles/82813)
+- [TCRdock](https://github.com/phbradley/TCRdock) - [paper](https://elifesciences.org/articles/82813)
   - A T cell receptor:peptide-MHC docking protocol using an Alphafold model finetuned for TCR:peptide+MHC complexes.
+ 
+- [AlphaPulldown](https://github.com/KosinskiLab/AlphaPulldown) - [paper](https://doi.org/10.1093/bioinformatics/btac749) - [website](https://www.embl-hamburg.de/AlphaPulldown/)
+  - computational protein-protein interaction screening using AlphaFold Multimer
 
 ## Design
 
