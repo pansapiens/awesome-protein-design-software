@@ -7,7 +7,7 @@ A collection of software for protein structure prediction and design, with a foc
 - [Structure prediction](#structure-prediction)
 - [Multimer structure prediction](#multimer-structure-prediction)
 - [Design](#design)
-- [Peptide binding](#peptide-binding)
+- [Peptide and ligand binding](#peptide-and-ligand-binding)
 - [General protein language models](#general-protein-language-models)
 - [Other lists](#other-lists)
 - [Uncurated searches](#uncurated-searches)
@@ -89,7 +89,7 @@ A collection of software for protein structure prediction and design, with a foc
 - [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion) - [paper](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb)
   - a generative diffusion model for protein (backbone) structure generation, with or without conditional information (eg motif or binding target) 
 
-## Peptide binding
+## Peptide and ligand binding
 
 - [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
 
@@ -97,6 +97,9 @@ A collection of software for protein structure prediction and design, with a foc
 
 - [Solubility aware protein-binding peptide design with AfDesign](https://github.com/ohuelab/Solubility_AfDesign) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ohuelab/Solubility_AfDesign/blob/solubility/design.ipynb) - [paper](https://www.mdpi.com/2227-9059/10/7/1626)
   - Based on ColabDesign/AfDesign, with an extra solubility objective function
+
+- [DiffBindFR](https://github.com/HBioquant/DiffBindFR)
+  - diffusion model based flexible protein-ligand docking 
 
 ## Sequence generation
 
