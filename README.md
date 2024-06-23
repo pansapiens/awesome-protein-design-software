@@ -15,7 +15,7 @@ A collection of software for protein structure prediction and design, with a foc
 
 ## Structure prediction
 
-- Alphafold3 (no code yet) - [paper](https://doi.org/10.1038/s41586-024-07487-w) - [blog](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - [webapp](https://alphafoldserver.com/)
+- Alphafold3 (no code yet) - [paper](https://doi.org/10.1038/s41586-024-07487-w) - [blog](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - [web app](https://alphafoldserver.com/)
   - an improved Alphafold with support for nucleotide, ligand and post-translational modification modelling
 
 - [Alphafold2](https://github.com/deepmind/alphafold) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) - [paper](https://doi.org/10.1038/s41586-021-03819-2)
@@ -99,7 +99,10 @@ A collection of software for protein structure prediction and design, with a foc
   - Based on ColabDesign/AfDesign, with an extra solubility objective function
 
 - [DiffBindFR](https://github.com/HBioquant/DiffBindFR)
-  - diffusion model based flexible protein-ligand docking 
+  - diffusion model based flexible protein-ligand docking
+ 
+- [AlphaFill](https://github.com/PDB-REDO/alphafill) - [web app](https://alphafill.eu/) - [paper](https://www.nature.com/articles/s41592-022-01685-y)
+  - "transplants" missing ligands, cofactors and (metal) ions to the AlphaFold models.
 
 ## Sequence generation
 
