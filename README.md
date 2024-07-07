@@ -91,6 +91,8 @@ A collection of software for protein structure prediction and design, with a foc
 
 - [LM-Design](https://github.com/BytedProtein/ByProt) and ByProt - [paper](https://arxiv.org/abs/2302.01649)
 
+- [InstructPLM](https://github.com/Eikor/InstructPLM) - [paper](https://doi.org/10.1101/2024.04.17.589642)
+
 ## Peptide and ligand binding
 
 - [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
