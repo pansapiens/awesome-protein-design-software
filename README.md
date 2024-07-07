@@ -89,6 +89,8 @@ A collection of software for protein structure prediction and design, with a foc
 - [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion) - [paper](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb)
   - a generative diffusion model for protein (backbone) structure generation, with or without conditional information (eg motif or binding target) 
 
+- [LM-Design](https://github.com/BytedProtein/ByProt) and ByProt - [paper](https://arxiv.org/abs/2302.01649)
+
 ## Peptide and ligand binding
 
 - [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
