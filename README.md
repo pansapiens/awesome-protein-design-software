@@ -144,6 +144,7 @@ A collection of software for protein structure prediction and design, with a foc
   - a fantastic list of miletone papers in scientific large language models, with a "Protein Sequence Generation/Design" section
 - [awesome-protein-design (johnnytam100)](https://github.com/johnnytam100/awesome-protein-design)
 - [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning)
+- [folding_tools](https://github.com/duerrsimon/folding_tools) - folded prediction tools list
 
 ## Uncurated searches
 
