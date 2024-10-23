@@ -109,6 +109,10 @@ A collection of software for protein structure prediction and design, with a foc
 - [AlphaFill](https://github.com/PDB-REDO/alphafill) - [web app](https://alphafill.eu/) - [paper](https://www.nature.com/articles/s41592-022-01685-y)
   - "transplants" missing ligands, cofactors and (metal) ions to the AlphaFold models.
 
+- [PepMLM](https://github.com/programmablebio/pepmlm) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/1u0i-LBog_lvQ5YRKs7QLKh_RtI-tV8qM?usp=sharing) - [paper](https://doi.org/10.48550/arXiv.2310.03842)
+  - A linear peptide binder sequence generation model, using ESM-2.
+  - A nice tutorial example using [PepMLM and EvoProtGrad](https://huggingface.co/blog/AmelieSchreiber/esm-interact) for linear peptide binding design.
+
 ## Sequence generation
 
 - [ProtGPT2](https://huggingface.co/nferruz/ProtGPT2) - [paper](https://www.nature.com/articles/s41467-022-32007-7)
