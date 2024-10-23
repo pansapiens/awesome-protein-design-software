@@ -116,6 +116,8 @@ A collection of software for protein structure prediction and design, with a foc
   - Generation of protein sequences and evolutionary alignments via discrete diffusion models. Also explores generation in intrinsically disordered regions (IDRs). 
 - [PoET](https://github.com/OpenProteinAI/PoET) - [paper](https://doi.org/10.48550/arXiv.2306.06156)
   - protein language model for variant effect prediction and conditional sequence generation.
+- [EvoProtGrad](https://github.com/NREL/EvoProtGrad) - [paper](https://doi.org/10.1088/2632-2153/accacd)
+  - in-silico directed evolution of sequences with MCMC sampling and gradients from supervised models
 
 ## Sequence similarity search and (structural) alignment
 
