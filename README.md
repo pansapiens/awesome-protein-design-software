@@ -94,6 +94,8 @@ A collection of software for protein structure prediction and design, with a foc
 
 - [InstructPLM](https://github.com/Eikor/InstructPLM) - [paper](https://doi.org/10.1101/2024.04.17.589642)
 
+- [BindCraft](https://github.com/martinpacesa/BindCraft) - [paper](https://doi.org/10.1101/2024.09.30.615802) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/martinpacesa/BindCraft/blob/main/notebooks/BindCraft.ipynb)
+
 ## Peptide and ligand binding
 
 - [AlphaFold encodes the principles to identify high affinity peptide binders (pre-print)](https://www.biorxiv.org/content/10.1101/2022.03.18.484931v1.full)
