@@ -67,6 +67,9 @@ A collection of software for protein structure prediction and design, with a foc
 - [AlphaPulldown](https://github.com/KosinskiLab/AlphaPulldown) - [paper](https://doi.org/10.1093/bioinformatics/btac749) - [website](https://www.embl-hamburg.de/AlphaPulldown/)
   - computational protein-protein interaction screening using AlphaFold Multimer
 
+- [Boltz-1](https://github.com/jwohlwend/boltz)
+  -  predicts the 3D structure of proteins, RNA, DNA, small molecules, modified residues, covalent ligands and glycans, conditional generation of pockets  
+
 ## Design
 
 - [ColabDesign](https://github.com/sokrypton/ColabDesign)
