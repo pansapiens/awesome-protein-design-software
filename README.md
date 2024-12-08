@@ -16,8 +16,9 @@ A collection of software for protein structure prediction and design, with a foc
 
 ## Structure prediction
 
-- Alphafold3 (no code yet) - [paper](https://doi.org/10.1038/s41586-024-07487-w) - [blog](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - [web app](https://alphafoldserver.com/)
+- [Alphafold3](https://github.com/google-deepmind/alphafold3) - [paper](https://doi.org/10.1038/s41586-024-07487-w) - [blog](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - [web app](https://alphafoldserver.com/)
   - an improved Alphafold with support for nucleotide, ligand and post-translational modification modelling
+  - ⚠️ _be aware of the restrictive license associated with the model weights_
 
 - [Alphafold2](https://github.com/deepmind/alphafold) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) - [paper](https://doi.org/10.1038/s41586-021-03819-2)
 
@@ -43,6 +44,18 @@ A collection of software for protein structure prediction and design, with a foc
 - [ManyFold](https://github.com/instadeepai/manyfold) - [paper](https://doi.org/10.1093/bioinformatics/btac773)
   - a framework for batch validation and distributed training with Alphafold, Openfold, others.
   - includes pLMFold, a ESM-1b-based structure prediction model
+
+- [Boltz-1](https://github.com/jwohlwend/boltz) - [paper](https://doi.org/10.1101/2024.11.19.624167)
+  - structure prediction of proteins, RNA, DNA, and small molecules, modified residues, covalent ligands and glycans
+  - conditional generation of pocket residues
+
+- [Chai-1](https://github.com/chaidiscovery/chai-lab) - [paper](https://www.biorxiv.org/content/10.1101/2024.10.10.615955) - [server](https://lab.chaidiscovery.com/)
+  - enables unified prediction of proteins, small molecules, DNA, RNA, glycosylations, including experimental restraints.
+ 
+- [HelixFold3](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold3) - [paper](https://arxiv.org/pdf/2408.16975)
+  - structure prediction aiming to replicate Alphafold3 (⚠️ _non-commercial use only_)
+  - part of the [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) suite for structure prediction and design for protein, DNA, RNA and small molecules.
+
 
 ## Multimer structure prediction
 
