@@ -10,6 +10,7 @@ A collection of software for protein structure prediction and design, with a foc
 - [Peptide and ligand binding](#peptide-and-ligand-binding)
 - [Sequence generation](#sequence-generation)
 - [General protein language models](#general-protein-language-models)
+- [Tutorials and Workshops](#tutorials-and-workshops)
 - [Other lists](#other-lists)
 - [Uncurated searches](#uncurated-searches)
 - [Contribution guidelines](#contribution-guidelines)
@@ -154,9 +155,14 @@ A collection of software for protein structure prediction and design, with a foc
   - embeddings that are competative with ESM-1b on subcellular localization prediction
   - [structure prediction using EMBER2 and trRosetta](https://github.com/kWeissenow/EMBER2) - lower resource but can't match Alphafold2
  
-- [AMPLIFY](https://github.com/chandar-lab/AMPLIFY) - [paper](https://doi.org/10.1101/2024.09.23.614603) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/chandar-lab/AMPLIFY/blob/rc-0.1/examples/contact_prediction.ipynb)
+- [AMPLIFY](https://github.com/chandar-lab/AMPLIFY) - [paper](https://doi.org/10.1101/2024.09.23.614603) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/chandar-lab/AMPLIFY/blob/rc-0.1/examples/)
   - protein language models reimplementing ESM2 with improved inferance and training performance, with open data + pre-training code
   - demonstrates the impact of data set size and curation on protein language model performance
+
+## Tutorials and workshops
+
+- [DL4Proteins workshops](https://github.com/Graylab/DL4Proteins-notebooks) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/)
+  - instructive notebooks covering the basics of neural networks and PyTorch, through graph neural networks, Denoising Diffusion Probabilistic Models, Alphafold2 and RFDiffusion
 
 ## Other lists
 
