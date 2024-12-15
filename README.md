@@ -153,6 +153,10 @@ A collection of software for protein structure prediction and design, with a foc
 - [ProtTrans](https://github.com/agemagician/ProtTrans) - [paper](https://ieeexplore.ieee.org/document/9477085) - a transformer model of protein sequence (ProtT5)
   - embeddings that are competative with ESM-1b on subcellular localization prediction
   - [structure prediction using EMBER2 and trRosetta](https://github.com/kWeissenow/EMBER2) - lower resource but can't match Alphafold2
+ 
+- [AMPLIFY](https://github.com/chandar-lab/AMPLIFY) - [paper](https://doi.org/10.1101/2024.09.23.614603) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/chandar-lab/AMPLIFY/blob/rc-0.1/examples/contact_prediction.ipynb)
+  - protein language models reimplementing ESM2 with improved inferance and training performance, with open data + pre-training code
+  - demonstrates the impact of data set size and curation on protein language model performance
 
 ## Other lists
 
