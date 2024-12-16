@@ -57,7 +57,6 @@ A collection of software for protein structure prediction and design, with a foc
   - structure prediction aiming to replicate Alphafold3 (⚠️ _non-commercial use only_)
   - part of the [PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) suite for structure prediction and design for protein, DNA, RNA and small molecules.
 
-
 ## Multimer structure prediction
 
 - [Alphafold2-Multimer](https://github.com/deepmind/alphafold) - [paper](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v1)
@@ -112,6 +111,9 @@ A collection of software for protein structure prediction and design, with a foc
 - [InstructPLM](https://github.com/Eikor/InstructPLM) - [paper](https://doi.org/10.1101/2024.04.17.589642)
 
 - [BindCraft](https://github.com/martinpacesa/BindCraft) - [paper](https://doi.org/10.1101/2024.09.30.615802) - [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/martinpacesa/BindCraft/blob/main/notebooks/BindCraft.ipynb)
+
+- [AlphaBind](https://github.com/A-Alpha-Bio/alphabind/) - [paper](https://doi.org/10.1101/2024.11.11.622872)
+  - a domain specific model for optimizing antibody-antigen binding, based on ESM-2 
 
 ## Peptide and ligand binding
 
